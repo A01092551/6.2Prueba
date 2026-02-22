@@ -1,3 +1,2 @@
 Id hotel       Nombre         Estado         Habitaciones   
 --------------------------------------------------
-1              Grand Palace   Veracruz       150            
