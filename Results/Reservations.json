@@ -1,0 +1,12 @@
+[
+  {
+    "id": 3,
+    "customer_id": 1,
+    "hotel_id": 4
+  },
+  {
+    "id": 6,
+    "customer_id": 2,
+    "hotel_id": 5
+  }
+]
